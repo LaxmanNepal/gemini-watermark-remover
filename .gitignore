@@ -1,0 +1,26 @@
+# dependencies
+node_modules
+
+# misc
+.DS_Store
+.history
+
+# build
+dist/
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# local env files
+.env*.local
+.env
+.artifacts
+.agents
+.npm-cache-local
+.npm-tmp-cache
+src/assets/samples/*-fix.*
+.tmp-*.png
+.chrome-debug
+src/assets/samples/fix/
